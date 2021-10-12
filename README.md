@@ -1,7 +1,7 @@
 # socket-communication-keylogger
 simple keylogger using socket communication between a host and a client
 
-NOTE: THIS WILL FLAG ANTIVIRUS DETECTION!
+<b>NOTE: THIS WILL FLAG ANTIVIRUS DETECTION!</b>
       There is no malicious intent with this program.
       Compile at your own risk, but all the code is displayed here.
       This is solely a learning exercise for me, and I do not intend
