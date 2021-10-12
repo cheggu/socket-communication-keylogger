@@ -7,7 +7,7 @@ simple keylogger using socket communication between a host and a client
       This is solely a learning exercise for me, and I do not intend
       to scale this application any further.
 
-USAGE:
+<b>USAGE:</b>
 Open both client and host solutions in Visual Studio and compile, or otherwise compile source code directly.
 
 To start, run the host program first, then the client program. 
