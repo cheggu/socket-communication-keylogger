@@ -14,7 +14,7 @@ To start, run the host program first, then the client program.
 
 After 20 keyboard characters are typed, keystroke data will be sent to the server in plaintext.
 
-To enable stealth features on the client, enable the labeled section in initOverlay().
+To enable experimental stealth features on the client, enable the labeled section in initOverlay().
 
 This is a simple excercise in socket communication. I do not condone any malicious use of this program.
 Certaub features have been left out intentionally to prevent malicious use and to enable antivirus detection of this program.
