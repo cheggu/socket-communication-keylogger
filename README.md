@@ -1,5 +1,5 @@
 # socket-communication-keylogger
-simple keylogger using socket communication between a host and a client
+simple keylogger using basic socket communication between a host and a client
 
 <b>NOTE: THIS WILL FLAG ANTIVIRUS DETECTION!</b>
       There is no malicious intent with this program.
